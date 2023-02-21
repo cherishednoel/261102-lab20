@@ -8,8 +8,7 @@
 using namespace std;
 
 struct student{
-	char name[100]
-	char gender[10];;
+	char name[100], gender[10];;
 	int id;
 	float gpa;
 };
